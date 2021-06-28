@@ -9,8 +9,7 @@ using std::runtime_error;
 LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam);
 HINSTANCE hInstance;
 
-// Добавленный комментарий
-// Второй добавленный комментарий
+// Добавление первого комментария.
 
 int main() {
 	
