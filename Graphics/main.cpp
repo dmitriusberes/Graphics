@@ -10,6 +10,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam);
 HINSTANCE hInstance;
 
 // Добавление первого комментария.
+// Добавление второго комментария.
 
 int main() {
 	
